@@ -1,0 +1,8 @@
+## 이 프로그램은 Bit Trace를 위한 시뮬레이션 환경을 제공합니다.
+
+
+Start_X,Start_Y,End_X,End_Y
+-> Pattern Target Address를 설정합니다.
+
+PGM Name
+-> 해당 PGM을 UI에 올려 실행합니다.
